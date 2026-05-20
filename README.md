@@ -12,7 +12,7 @@
 
 ### 🌐 Socials
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-4d8ab0.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaovqmartins/) [![Email](https://img.shields.io/badge/Outlook-0078D4?style=flat&logo=microsoft-outlook&logoColor=black)](https://outlook-.live.com/mail/)
+[![LinkedIn](https://img.shields.io/badge/Linkedin-4d8ab0.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaovqmartins/) [![Email](https://img.shields.io/badge/Outlook-0078D4?style=flat&logo=microsoft-outlook&logoColor=black)](https://outlook-.live.com/mail/)
 
 ---
 
